@@ -1,0 +1,44 @@
+{
+  "accuracy": 0.97,
+  "macro_f1": 0.9699786514855008,
+  "test_rows": 600,
+  "classification_report": {
+    "bearing_fault": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 150.0
+    },
+    "electrical_imbalance": {
+      "precision": 0.9647887323943662,
+      "recall": 0.9133333333333333,
+      "f1-score": 0.9383561643835616,
+      "support": 150.0
+    },
+    "healthy": {
+      "precision": 0.9177215189873418,
+      "recall": 0.9666666666666667,
+      "f1-score": 0.9415584415584416,
+      "support": 150.0
+    },
+    "rotor_eccentricity": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 150.0
+    },
+    "accuracy": 0.97,
+    "macro avg": {
+      "precision": 0.9706275628454271,
+      "recall": 0.97,
+      "f1-score": 0.9699786514855008,
+      "support": 600.0
+    },
+    "weighted avg": {
+      "precision": 0.970627562845427,
+      "recall": 0.97,
+      "f1-score": 0.9699786514855009,
+      "support": 600.0
+    }
+  }
+}

@@ -1,0 +1,5 @@
+,healthy,bearing_fault,electrical_imbalance,rotor_eccentricity
+healthy,145,0,5,0
+bearing_fault,0,150,0,0
+electrical_imbalance,13,0,137,0
+rotor_eccentricity,0,0,0,150
